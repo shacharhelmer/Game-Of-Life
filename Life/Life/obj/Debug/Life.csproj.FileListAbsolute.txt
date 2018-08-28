@@ -1,0 +1,7 @@
+C:\Users\Shachar Helmer\source\repos\Life\Life\obj\Debug\Life.csprojAssemblyReference.cache
+C:\Users\Shachar Helmer\source\repos\Life\Life\obj\Debug\Life.csproj.CoreCompileInputs.cache
+C:\Users\Shachar Helmer\source\repos\Life\Life\bin\Debug\Life.exe.config
+C:\Users\Shachar Helmer\source\repos\Life\Life\bin\Debug\Life.exe
+C:\Users\Shachar Helmer\source\repos\Life\Life\bin\Debug\Life.pdb
+C:\Users\Shachar Helmer\source\repos\Life\Life\obj\Debug\Life.exe
+C:\Users\Shachar Helmer\source\repos\Life\Life\obj\Debug\Life.pdb
